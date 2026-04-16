@@ -1,0 +1,17 @@
+One,una 
+morning,manana 
+when,cuando 
+woke,desperto 
+from,de 
+troubled,preocupado 
+dreams,sueños 
+he,el 
+found,econtro 
+transformed,transformado 
+in,en 
+his,su 
+bed,cama 
+into,en 
+a,un 
+horrible,horrible 
+vermin,insecto
